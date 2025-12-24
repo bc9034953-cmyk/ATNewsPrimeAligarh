@@ -1,0 +1,6 @@
+@ATNewsprimeApp_HostAddress = http://localhost:5107
+
+GET {{ATNewsprimeApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
